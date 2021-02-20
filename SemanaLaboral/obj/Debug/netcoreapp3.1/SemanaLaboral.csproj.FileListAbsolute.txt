@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\SemanaLaboral\obj\Debug\netcoreapp3.1\SemanaLaboral.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\SemanaLaboral\obj\Debug\netcoreapp3.1\SemanaLaboral.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\SemanaLaboral\obj\Debug\netcoreapp3.1\SemanaLaboral.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\SemanaLaboral\obj\Debug\netcoreapp3.1\SemanaLaboral.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\SemanaLaboral\bin\Debug\netcoreapp3.1\SemanaLaboral.exe
+C:\Users\Marjorie\Desktop\SemanaLaboral\bin\Debug\netcoreapp3.1\SemanaLaboral.deps.json
+C:\Users\Marjorie\Desktop\SemanaLaboral\bin\Debug\netcoreapp3.1\SemanaLaboral.runtimeconfig.json
+C:\Users\Marjorie\Desktop\SemanaLaboral\bin\Debug\netcoreapp3.1\SemanaLaboral.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\SemanaLaboral\bin\Debug\netcoreapp3.1\SemanaLaboral.dll
+C:\Users\Marjorie\Desktop\SemanaLaboral\bin\Debug\netcoreapp3.1\SemanaLaboral.pdb
+C:\Users\Marjorie\Desktop\SemanaLaboral\obj\Debug\netcoreapp3.1\SemanaLaboral.dll
+C:\Users\Marjorie\Desktop\SemanaLaboral\obj\Debug\netcoreapp3.1\SemanaLaboral.pdb
+C:\Users\Marjorie\Desktop\SemanaLaboral\obj\Debug\netcoreapp3.1\SemanaLaboral.genruntimeconfig.cache

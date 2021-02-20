@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\MegaPlaza\obj\Debug\netcoreapp3.1\MegaPlaza.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\MegaPlaza\obj\Debug\netcoreapp3.1\MegaPlaza.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\MegaPlaza\obj\Debug\netcoreapp3.1\MegaPlaza.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\MegaPlaza\obj\Debug\netcoreapp3.1\MegaPlaza.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\MegaPlaza\bin\Debug\netcoreapp3.1\MegaPlaza.exe
+C:\Users\Marjorie\Desktop\MegaPlaza\bin\Debug\netcoreapp3.1\MegaPlaza.deps.json
+C:\Users\Marjorie\Desktop\MegaPlaza\bin\Debug\netcoreapp3.1\MegaPlaza.runtimeconfig.json
+C:\Users\Marjorie\Desktop\MegaPlaza\bin\Debug\netcoreapp3.1\MegaPlaza.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\MegaPlaza\bin\Debug\netcoreapp3.1\MegaPlaza.dll
+C:\Users\Marjorie\Desktop\MegaPlaza\bin\Debug\netcoreapp3.1\MegaPlaza.pdb
+C:\Users\Marjorie\Desktop\MegaPlaza\obj\Debug\netcoreapp3.1\MegaPlaza.dll
+C:\Users\Marjorie\Desktop\MegaPlaza\obj\Debug\netcoreapp3.1\MegaPlaza.pdb
+C:\Users\Marjorie\Desktop\MegaPlaza\obj\Debug\netcoreapp3.1\MegaPlaza.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\SalarioSemanal\obj\Debug\netcoreapp3.1\SalarioSemanal.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\SalarioSemanal\obj\Debug\netcoreapp3.1\SalarioSemanal.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\SalarioSemanal\obj\Debug\netcoreapp3.1\SalarioSemanal.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\SalarioSemanal\obj\Debug\netcoreapp3.1\SalarioSemanal.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\SalarioSemanal\bin\Debug\netcoreapp3.1\SalarioSemanal.exe
+C:\Users\Marjorie\Desktop\SalarioSemanal\bin\Debug\netcoreapp3.1\SalarioSemanal.deps.json
+C:\Users\Marjorie\Desktop\SalarioSemanal\bin\Debug\netcoreapp3.1\SalarioSemanal.runtimeconfig.json
+C:\Users\Marjorie\Desktop\SalarioSemanal\bin\Debug\netcoreapp3.1\SalarioSemanal.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\SalarioSemanal\bin\Debug\netcoreapp3.1\SalarioSemanal.dll
+C:\Users\Marjorie\Desktop\SalarioSemanal\bin\Debug\netcoreapp3.1\SalarioSemanal.pdb
+C:\Users\Marjorie\Desktop\SalarioSemanal\obj\Debug\netcoreapp3.1\SalarioSemanal.dll
+C:\Users\Marjorie\Desktop\SalarioSemanal\obj\Debug\netcoreapp3.1\SalarioSemanal.pdb
+C:\Users\Marjorie\Desktop\SalarioSemanal\obj\Debug\netcoreapp3.1\SalarioSemanal.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\DefinirAnio\bin\Debug\netcoreapp3.1\DefinirAnio.exe
+C:\Users\Marjorie\Desktop\DefinirAnio\bin\Debug\netcoreapp3.1\DefinirAnio.deps.json
+C:\Users\Marjorie\Desktop\DefinirAnio\bin\Debug\netcoreapp3.1\DefinirAnio.runtimeconfig.json
+C:\Users\Marjorie\Desktop\DefinirAnio\bin\Debug\netcoreapp3.1\DefinirAnio.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\DefinirAnio\bin\Debug\netcoreapp3.1\DefinirAnio.dll
+C:\Users\Marjorie\Desktop\DefinirAnio\bin\Debug\netcoreapp3.1\DefinirAnio.pdb
+C:\Users\Marjorie\Desktop\DefinirAnio\obj\Debug\netcoreapp3.1\DefinirAnio.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\DefinirAnio\obj\Debug\netcoreapp3.1\DefinirAnio.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\DefinirAnio\obj\Debug\netcoreapp3.1\DefinirAnio.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\DefinirAnio\obj\Debug\netcoreapp3.1\DefinirAnio.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\DefinirAnio\obj\Debug\netcoreapp3.1\DefinirAnio.dll
+C:\Users\Marjorie\Desktop\DefinirAnio\obj\Debug\netcoreapp3.1\DefinirAnio.pdb
+C:\Users\Marjorie\Desktop\DefinirAnio\obj\Debug\netcoreapp3.1\DefinirAnio.genruntimeconfig.cache

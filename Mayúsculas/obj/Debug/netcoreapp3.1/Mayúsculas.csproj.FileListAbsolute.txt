@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\Mayúsculas\bin\Debug\netcoreapp3.1\Mayúsculas.exe
+C:\Users\Marjorie\Desktop\Mayúsculas\bin\Debug\netcoreapp3.1\Mayúsculas.deps.json
+C:\Users\Marjorie\Desktop\Mayúsculas\bin\Debug\netcoreapp3.1\Mayúsculas.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Mayúsculas\bin\Debug\netcoreapp3.1\Mayúsculas.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Mayúsculas\bin\Debug\netcoreapp3.1\Mayúsculas.dll
+C:\Users\Marjorie\Desktop\Mayúsculas\bin\Debug\netcoreapp3.1\Mayúsculas.pdb
+C:\Users\Marjorie\Desktop\Mayúsculas\obj\Debug\netcoreapp3.1\Mayúsculas.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Mayúsculas\obj\Debug\netcoreapp3.1\Mayúsculas.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Mayúsculas\obj\Debug\netcoreapp3.1\Mayúsculas.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Mayúsculas\obj\Debug\netcoreapp3.1\Mayúsculas.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Mayúsculas\obj\Debug\netcoreapp3.1\Mayúsculas.dll
+C:\Users\Marjorie\Desktop\Mayúsculas\obj\Debug\netcoreapp3.1\Mayúsculas.pdb
+C:\Users\Marjorie\Desktop\Mayúsculas\obj\Debug\netcoreapp3.1\Mayúsculas.genruntimeconfig.cache
